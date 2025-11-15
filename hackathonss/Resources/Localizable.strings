@@ -1,0 +1,283 @@
+/* 
+  Localizable.strings
+  WellnessPantherApp
+
+  Created by iOS Lab UPMX on 11/14/25.
+  Copyright © 2025 iOS Lab UPMX. All rights reserved.
+*/
+
+// MARK: - App Navigation
+"tab_home" = "Inicio";
+"tab_physical" = "Físico";
+"tab_emotional" = "Emocional";
+"tab_social" = "Social";
+"tab_spiritual" = "Espiritual";
+"tab_more" = "Más";
+
+// MARK: - Home Screen
+"home_welcome" = "¡Hola, %@!";
+"home_panther_status" = "Tu pantera está %@";
+"home_quick_actions" = "Acciones Rápidas";
+"home_register_emotion" = "Registrar Emoción";
+"home_add_activity" = "Agregar Actividad";
+"home_view_progress" = "Ver Progreso";
+"home_todays_overview" = "Resumen de Hoy";
+"home_emotional_state" = "Estado Emocional";
+"home_physical_activity" = "Actividad Física";
+"home_sleep_quality" = "Calidad de Sueño";
+"home_streak_days" = "Días Consecutivos";
+
+// MARK: - Physical Wellness
+"physical_title" = "Bienestar Físico";
+"physical_stats" = "Estadísticas Físicas";
+"physical_height" = "Altura";
+"physical_weight" = "Peso";
+"physical_bmi" = "IMC";
+"physical_weekly_goal" = "Meta Semanal";
+"physical_activity_days" = "Días Activos";
+"physical_recent_activities" = "Actividades Recientes";
+"physical_weekly_progress" = "Progreso Semanal";
+"physical_setup_data" = "Configurar Datos Físicos";
+"physical_add_activity" = "Agregar Actividad";
+"physical_activity_type" = "Tipo de Actividad";
+"physical_duration" = "Duración (minutos)";
+"physical_calories" = "Calorías (opcional)";
+"physical_save" = "Guardar";
+"physical_cancel" = "Cancelar";
+
+// MARK: - Activity Types
+"activity_running" = "Correr";
+"activity_cycling" = "Ciclismo";
+"activity_swimming" = "Nadar";
+"activity_gym" = "Gimnasio";
+"activity_sports" = "Deportes";
+"activity_yoga" = "Yoga";
+"activity_walking" = "Caminar";
+"activity_other" = "Otro";
+
+// MARK: - Emotional Wellness
+"emotional_title" = "Bienestar Emocional";
+"emotional_current_mood" = "Estado de Ánimo Actual";
+"emotional_mood_jar" = "Tarro de Emociones";
+"emotional_emotional_history" = "Historial Emocional";
+"emotional_tools" = "Herramientas Emocionales";
+"emotional_register_emotion" = "Registrar Emoción";
+"emotional_view_insights" = "Ver Insights";
+"emotional_meditation" = "Meditación";
+"emotional_journal" = "Diario";
+"emotional_breathing" = "Respiración";
+
+// MARK: - Emotion Flow
+"emotion_select_emotion" = "¿Cómo te sientes?";
+"emotion_select_intensity" = "¿Cuál es la intensidad?";
+"emotion_reflect" = "Reflexiona";
+"emotion_additional_notes" = "Notas Adicionales";
+"emotion_analysis" = "Análisis Emocional";
+"emotion_complete" = "Completado";
+"emotion_next" = "Siguiente";
+"emotion_previous" = "Anterior";
+"emotion_finish" = "Finalizar";
+
+// MARK: - Emotion Types
+"emotion_happy" = "Feliz";
+"emotion_sad" = "Triste";
+"emotion_anxious" = "Ansioso";
+"emotion_angry" = "Enojado";
+"emotion_grateful" = "Agradecido";
+"emotion_peaceful" = "Paz";
+"emotion_stressed" = "Estresado";
+"emotion_excited" = "Emocionado";
+"emotion_tired" = "Cansado";
+"emotion_confused" = "Confundido";
+
+// MARK: - Social Wellness
+"social_title" = "Bienestar Social";
+"social_welcome" = "Conexiones Sociales";
+"social_activities" = "Actividades Sociales";
+"social_connections" = "Conexiones";
+"social_group_meditation" = "Meditación Grupal";
+"social_team_sports" = "Deportes en Equipo";
+"social_community_events" = "Eventos Comunitarios";
+"social_volunteer" = "Voluntariado";
+
+// MARK: - Spiritual Wellness
+"spiritual_title" = "Bienestar Espiritual";
+"spiritual_welcome" = "Crecimiento Espiritual";
+"spiritual_practices" = "Prácticas Espirituales";
+"spiritual_mindfulness" = "Mindfulness";
+"spiritual_meditation" = "Meditación";
+"spiritual_prayer" = "Oración";
+"spiritual_reflection" = "Reflexión";
+"spiritual_gratitude" = "Gratitud";
+
+// MARK: - More Screen
+"more_title" = "Más";
+"more_profile" = "Tu Perfil";
+"more_wellness_areas" = "Áreas de Bienestar";
+"more_occupational" = "Ocupacional";
+"more_environmental" = "Ambiental";
+"more_settings" = "Configuración";
+"more_notifications" = "Notificaciones";
+"more_privacy" = "Privacidad";
+"more_language" = "Idioma";
+"more_about" = "Acerca de";
+"more_version" = "Versión";
+"more_help" = "Ayuda";
+
+// MARK: - Occupational Wellness
+"occupational_title" = "Bienestar Ocupacional";
+"occupational_description" = "Equilibrio trabajo-vida y desarrollo profesional";
+"occupational_work_life_balance" = "Equilibrio Trabajo-Vida";
+"occupational_skills_development" = "Desarrollo de Habilidades";
+"occupational_career_goals" = "Metas de Carrera";
+"occupational_stress_management" = "Manejo de Estrés Laboral";
+
+// MARK: - Environmental Wellness
+"environmental_title" = "Bienestar Ambiental";
+"environmental_description" = "Conexión con tu entorno y espacios saludables";
+"environmental_nature_connection" = "Conexión con la Naturaleza";
+"environmental_healthy_spaces" = "Espacios Saludables";
+"environmental_sustainability" = "Sostenibilidad";
+"environmental_environmental_stress" = "Estrés Ambiental";
+
+// MARK: - Panther System
+"panther_level_cub" = "Cachorro";
+"panther_level_young" = "Joven";
+"panther_level_adult" = "Adulto";
+"panther_experience" = "Experiencia";
+"panther_next_level" = "Siguiente Nivel";
+"panther_unlocked_features" = "Características Desbloqueadas";
+"panther_custom_outfits" = "Outfits Personalizados";
+"panther_advanced_analytics" = "Análisis Avanzados";
+"panther_social_features" = "Características Sociales";
+
+// MARK: - Notifications
+"notification_morning_checkin" = "¡Buenos días! Tu pantera te espera";
+"notification_evening_reflection" = "Hora de reflexionar con tu pantera";
+"notification_activity_reminder" = "Tu pantera quiere moverse";
+"notification_panther_care" = "Tu pantera necesita tu atención";
+"notification_weekly_progress" = "Revisa tu progreso semanal";
+"notification_near_level_up" = "¡Casi nivel superior!";
+"notification_streak_achievement" = "¡Increíble racha!";
+
+// MARK: - Settings
+"settings_enable_notifications" = "Habilitar Notificaciones";
+"settings_daily_reminders" = "Recordatorios Diarios";
+"settings_privacy_policy" = "Política de Privacidad";
+"settings_terms_of_service" = "Términos de Servicio";
+"settings_rate_app" = "Calificar App";
+"settings_share_app" = "Compartir App";
+"settings_feedback" = "Enviar Comentarios";
+
+// MARK: - Common UI
+"button_ok" = "OK";
+"button_cancel" = "Cancelar";
+"button_save" = "Guardar";
+"button_delete" = "Eliminar";
+"button_edit" = "Editar";
+"button_done" = "Hecho";
+"button_next" = "Siguiente";
+"button_previous" = "Anterior";
+"button_finish" = "Finalizar";
+"button_close" = "Cerrar";
+"button_retry" = "Reintentar";
+"button_continue" = "Continuar";
+
+// MARK: - Messages
+"loading" = "Cargando...";
+"error_generic" = "Ocurrió un error. Por favor intenta nuevamente.";
+"error_network" = "Error de conexión. Verifica tu internet.";
+"error_data_save" = "Error al guardar datos.";
+"error_data_load" = "Error al cargar datos.";
+"success_saved" = "Guardado exitosamente.";
+"success_updated" = "Actualizado exitosamente.";
+"success_deleted" = "Eliminado exitosamente.";
+
+// MARK: - AI Analysis
+"ai_analysis_title" = "Análisis de IA";
+"ai_severity_low" = "Bajo";
+"ai_severity_medium" = "Medio";
+"ai_severity_high" = "Alto";
+"ai_severity_critical" = "Crítico";
+"ai_insights_title" = "Insights Personalizados";
+"ai_suggestions_title" = "Sugerencias de Actividades";
+
+// MARK: - Progress Tracking
+"progress_overall_score" = "Puntuación General";
+"progress_weekly_stats" = "Estadísticas Semanales";
+"progress_monthly_trends" = "Tendencias Mensuales";
+"progress_achievements" = "Logros";
+"progress_goals_completed" = "Metas Completadas";
+"progress_streak_current" = "Racha Actual";
+"progress_streak_best" = "Mejor Racha";
+
+// MARK: - Sleep Tracking
+"sleep_hours" = "Horas de Sueño";
+"sleep_quality" = "Calidad de Sueño";
+"sleep_bedtime" = "Hora de Dormir";
+"sleep_wake_time" = "Hora de Despertar";
+"sleep_efficiency" = "Eficiencia del Sueño";
+"sleep_quality_excellent" = "Excelente";
+"sleep_quality_good" = "Bueno";
+"sleep_quality_fair" = "Regular";
+"sleep_quality_poor" = "Pobre";
+
+// MARK: - Mood Tracking
+"mood_intensity_very_low" = "Muy Baja";
+"mood_intensity_low" = "Baja";
+"mood_intensity_medium" = "Media";
+"mood_intensity_high" = "Alta";
+"mood_intensity_very_high" = "Muy Alta";
+"mood_trend_improving" = "Mejorando";
+"mood_trend_declining" = "Declinando";
+"mood_trend_stable" = "Estable";
+"mood_trend_fluctuating" = "Fluctuando";
+
+// MARK: - Wellness Categories
+"category_physical" = "Físico";
+"category_emotional" = "Emocional";
+"category_social" = "Social";
+"category_spiritual" = "Espiritual";
+"category_occupational" = "Ocupacional";
+"category_environmental" = "Ambiental";
+
+// MARK: - Difficulty Levels
+"difficulty_easy" = "Fácil";
+"difficulty_medium" = "Medio";
+"difficulty_hard" = "Difícil";
+
+// MARK: - Time Formats
+"time_minutes" = "%d minutos";
+"time_hours" = "%d horas";
+"time_days" = "%d días";
+"time_weeks" = "%d semanas";
+"time_months" = "%d meses";
+
+// MARK: - Units
+"unit_cm" = "cm";
+"unit_kg" = "kg";
+"unit_bmi" = "IMC";
+"unit_calories" = "calorías";
+"unit_steps" = "pasos";
+"unit_percent" = "%";
+
+// MARK: - Accessibility
+"accessibility_panther_avatar" = "Avatar de pantera nivel %@";
+"accessibility_mood_marble" = "Canica de emoción %@ intensidad %@";
+"accessibility_progress_bar" = "Barra de progreso %@ por ciento completada";
+"accessibility_emotion_button" = "Botón de emoción %@";
+"accessibility_activity_card" = "Tarjeta de actividad %@ duración %@ minutos";
+
+// MARK: - Error Messages
+"error_user_not_found" = "Usuario no encontrado";
+"error_invalid_data" = "Datos inválidos";
+"error_permission_denied" = "Permiso denegado";
+"error_service_unavailable" = "Servicio no disponible";
+"error_timeout" = "Tiempo de espera agotado";
+
+// MARK: - Success Messages
+"success_emotion_registered" = "Emoción registrada exitosamente";
+"success_activity_added" = "Actividad agregada exitosamente";
+"success_goal_achieved" = "¡Meta lograda!";
+"success_level_up" = "¡Tu pantera ha subido de nivel!";
+"success_streak_milestone" = "¡Has alcanzado un hito de racha!";
